@@ -1,0 +1,33 @@
+body {
+	background-color: #222;
+	color: #ccc;
+	font-family: monospace;
+	font-size: 16px;
+}
+input {
+	background-color: #111;
+	border: 1px solid #444;
+	color: #ccc;
+	font-family: monospace;
+	font-size: 16px;
+	height: 26px;
+	padding-left: 5px;
+}
+div.label {
+	display: inline-block;
+	width: 80px;
+}
+div.field {
+	margin-bottom: 5px;
+}
+div.fields, div.canvas {
+	display: inline-block;
+	vertical-align: top;
+}
+div.fields {
+	background-color: #333;
+	padding: 7px 7px 2px 7px;
+}
+div.canvas {
+	display: inline-block;
+}
