@@ -7,7 +7,7 @@ const ctx = canvas.getContext('2d');
 
 const nIt = 2000;
 const units = 'metric';
-const maxPath = 500;
+const maxPath = 1000;
 const minDist = 2;
 const config = {};
 let state = null;
